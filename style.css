@@ -138,3 +138,11 @@ footer {
         font-size: 32px;
     }
 }
+
+
+footer {
+    background: #14213d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
